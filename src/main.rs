@@ -12,7 +12,7 @@ fn main() {
 
         io::stdout()
             .flush()
-            .expect("Unable to flash screen!");
+            .expect("Unable to flush screen!");
 
         let mut input = String::new();
 
