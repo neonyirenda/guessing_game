@@ -1,5 +1,4 @@
-use std::io::{self, Write};
-use std::cmp;
+use std::{io::{self, Write}, cmp};
 use rand::Rng;
 
 fn main() {
